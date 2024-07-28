@@ -1,4 +1,4 @@
-// Product.java
+//File Name: Product
 // Author: Attal
 // Date: 27/07/2024
 // Purpose: Defines the Product class with properties, constructors, and methods for a retail store.

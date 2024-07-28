@@ -1,4 +1,4 @@
-// PerishableProduct.java
+//File Name: PerishableProduct
 // Author: [Your Name]
 // Date: [Current Date]
 // Purpose: Defines the PerishableProduct class extending Product with additional expiry date functionality.

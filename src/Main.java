@@ -1,4 +1,4 @@
-// Main.java
+// File Name: Main
 // Author: Attal
 // Date: 27/07/2024
 // Purpose: Main class to run the retail store simulation program with a menu-driven interface.
